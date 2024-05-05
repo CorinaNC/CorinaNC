@@ -1,4 +1,4 @@
-CS @ UMN-TC; conkl095@umn.edu for business inquiries.
+CS @ UMN-TC; conkl095@umn.edu; https://www.corinanc.site
 
 <!---
 CorinaNC/CorinaNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
