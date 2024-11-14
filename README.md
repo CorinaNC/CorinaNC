@@ -1,5 +1,4 @@
-### Corina Conklin
-#### Developer, Designer, and Writer
+# Developer, Designer, and Writer
 ```ts
 const corinaConklin = {
   os: [Windows 11, ArchLinux]
@@ -12,7 +11,7 @@ const corinaConklin = {
       api: ["fastapi", "asp.net", "express.js", "nodejs"]
     },
     tools: {
-      ui: ["adobe createive suite", "figma"],
+      ui: ["adobe creative suite", "figma"],
       dev: ["microsoft azure", "github", "docker"],
     },
   }
