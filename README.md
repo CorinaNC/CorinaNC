@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&duration=3000&pause=1000&color=9F38F7&center=true&multiline=true&width=435&height=100&lines=Corina+Conklin;Software+Developer+and+Designer)](https://git.io/typing-svg)
+### Corina Conklin
+#### Developer, Designer, and Writer
 ```ts
 const corinaConklin = {
   os: [Windows 11, ArchLinux]
