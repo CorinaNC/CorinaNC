@@ -17,7 +17,7 @@ const corinaConklin = {
     },
   }
   projects: {
-    hackathon: ["soilsensing", "tomobread"],
+    hackathon: ["soilsensing":"quality engineering award", "tomobread":"hackers' choice award"],
     personal: ["gopher grades", "work in progress", "multicultural food club"],
   }
 }
