@@ -22,6 +22,6 @@ const corinaConklin = {
 }
 ```
 # Contact Info:
-mail: conkl095@umn.edu
-site: https://www.corinanc.site
-linkedin: https://www.linkedin.com/in/CorinaNC
+mail: conkl095@umn.edu <br />
+site: https://www.corinanc.site <br />
+linkedin: https://www.linkedin.com/in/CorinaNC <br />
