@@ -16,12 +16,12 @@ const corinaConklin = {
     },
   }
   projects: {
-    hackathon: ["soilsensing":"quality engineering award", "tomobread":"hackers' choice award"],
+    hackathon: {"soilsensing":"quality engineering award", "tomobread":"hackers' choice award"},
     personal: ["gopher grades", "work in progress", "multicultural food club"],
   }
 }
 ```
-# contact me:
+# Contact Info:
 mail: conkl095@umn.edu
 site: https://www.corinanc.site
 linkedin: https://www.linkedin.com/in/CorinaNC
