@@ -5,14 +5,16 @@ const corinaConklin = {
   technologies: {
     frontEnd: {
       ts: ["angular", "react", "three.js", "webgl"],
+      dart: ["flutter"]
       css: ["bootstrap", "chakraui"]
     },
     backEnd: {
       api: ["fastapi", "asp.net", "express.js", "nodejs"]
+      db: ["firestore"]
     },
     tools: {
       ui: ["adobe creative suite", "figma"],
-      dev: ["microsoft azure", "github", "docker"],
+      dev: ["microsoft azure", "firebase", "github", "docker"],
     },
   }
   projects: {
