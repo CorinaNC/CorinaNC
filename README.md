@@ -4,7 +4,7 @@ const corinaConklin = {
   os: [Windows 11, ArchLinux, Mac],
   technologies: {
     frontEnd: {
-      ts: ["angular", "react", "three.js", "webgl"],
+      ts: ["angular", "react", "three.js", "webgl", "svelte"],
       dart: ["flutter"],
       css: ["bootstrap", "chakraui", "material-ui"],
     },
