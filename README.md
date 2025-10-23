@@ -15,7 +15,7 @@ const corinaConklin = {
     other: {
       deployment: ["make", "maven"],
       qa: ["jest", "google test suite", "junit"],
-      sdlc: ["agile", "scrum", "waterfall",
+      sdlc: ["agile", "scrum", "waterfall"],
     }
     tools: {
       ui: ["adobe creative suite", "figma"],
