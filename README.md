@@ -1,8 +1,8 @@
 # Developer, Designer, and Writer
 ```ts
 const corinaConklin = {
-  os: [Windows 11, ArchLinux, Mac],
-  languages: ["python", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ]
+  os: [Windows 11, ArchLinux, Mac, Android],
+  languages: ["python", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ],
   technologies: {
     frontEnd: {
       ts: ["angular", "react", "svelte", "three.js", "webgl"],
