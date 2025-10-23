@@ -12,6 +12,11 @@ const corinaConklin = {
       api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails", "elixir"],
       db: ["firestore", "graphql", "mongodb"],
     },
+    other: {
+      deployment: ["make", "maven"],
+      qa: ["jest", "google test suite", "junit"],
+      sdlc: ["agile", "scrum", "waterfall",
+    }
     tools: {
       ui: ["adobe creative suite", "figma"],
       dev: ["microsoft azure", "firebase", "github", "docker"],
