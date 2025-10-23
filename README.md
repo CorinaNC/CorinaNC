@@ -9,8 +9,8 @@ const corinaConklin = {
       css: ["bootstrap", "chakraui", "material-ui"],
     },
     backEnd: {
-      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails"],
-      db: ["firestore", "graphql"],
+      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails", "elixir"],
+      db: ["firestore", "graphql", "mongodb"],
     },
     tools: {
       ui: ["adobe creative suite", "figma"],
