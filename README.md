@@ -2,14 +2,15 @@
 ```ts
 const corinaConklin = {
   os: [Windows 11, ArchLinux, Mac],
+  languages: ["python", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ]
   technologies: {
     frontEnd: {
-      ts: ["angular", "react", "three.js", "webgl", "svelte"],
+      ts: ["angular", "react", "svelte", "three.js", "webgl"],
       dart: ["flutter"],
       css: ["bootstrap", "chakraui", "material-ui"],
     },
     backEnd: {
-      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails", "elixir"],
+      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails", "phoenix"],
       db: ["firestore", "graphql", "mongodb"],
     },
     other: {
