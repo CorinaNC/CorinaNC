@@ -1,16 +1,16 @@
 # Developer, Designer, and Writer
 ```ts
 const corinaConklin = {
-  os: [Windows 11, ArchLinux, Mac]
+  os: [Windows 11, ArchLinux, Mac],
   technologies: {
     frontEnd: {
       ts: ["angular", "react", "three.js", "webgl"],
-      dart: ["flutter"]
-      css: ["bootstrap", "chakraui", "material-ui"]
+      dart: ["flutter"],
+      css: ["bootstrap", "chakraui", "material-ui"],
     },
     backEnd: {
-      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails"]
-      db: ["firestore", "graphql"]
+      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails"],
+      db: ["firestore", "graphql"],
     },
     tools: {
       ui: ["adobe creative suite", "figma"],
