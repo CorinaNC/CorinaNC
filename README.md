@@ -5,12 +5,12 @@ const corinaConklin = {
   languages: ["python", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ],
   technologies: {
     frontEnd: {
-      ts: ["angular", "react", "svelte", "three.js", "webgl"],
+      ts: ["angular", "react", "electron", "svelte", "three.js", "webgl"],
       dart: ["flutter"],
       css: ["bootstrap", "chakraui", "material-ui"],
     },
     backEnd: {
-      api: ["fastapi", "asp.net", "express.js", "node", "ruby on rails", "phoenix"],
+      api: ["fastapi", "spring", "flask", ""asp.net", "express.js", "ruby on rails", "phoenix"],
       db: ["firestore", "graphql", "mongodb"],
     },
     other: {
@@ -19,12 +19,12 @@ const corinaConklin = {
       sdlc: ["agile", "scrum", "waterfall"],
     },
     tools: {
-      ui: ["adobe creative suite", "figma"],
-      dev: ["microsoft azure", "firebase", "github", "docker"],
+      ui: ["adobe creative suite", "figma"
+      dev: ["microsoft azure", "google cloud", "github", "docker"],
     },
   },
   projects: {
-    hackathon: {"soilsensing":"quality engineering award", "tomobread":"hackers' choice award", "ingrained":null},
+    hackathon: {"soilsensing":"quality engineering award", "tomobread":"hackers' choice award", "office_pt":null, "ingrained":null},
     personal: ["gopher grades", "work in progress", "multicultural food club", "fishy data", "musical linguistics", "gopher voting"],
   }
 }
