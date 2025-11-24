@@ -19,7 +19,7 @@ const corinaConklin = {
       sdlc: ["agile", "scrum", "waterfall"],
     },
     tools: {
-      ui: ["adobe creative suite", "figma"
+      ui: ["adobe creative suite", "figma"]
       dev: ["microsoft azure", "google cloud", "github", "docker"],
     },
   },
