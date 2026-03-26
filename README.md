@@ -2,7 +2,7 @@
 ```ts
 const corinaConklin = {
   os: [Windows 11, ArchLinux, Mac, Android],
-  languages: ["python", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ],
+  languages: ["python", "kotlin", "typescript", "javascript", "html", "css", "c#", "java", "c++", "elixir", "ocaml", "SQL" ],
   technologies: {
     frontEnd: {
       ts: ["angular", "react", "electron", "svelte", "three.js", "webgl"],
@@ -14,7 +14,7 @@ const corinaConklin = {
       db: ["firestore", "graphql", "mongodb"],
     },
     mobile: {
-      tools: ["android compose", "android", "kotlin multiplatform"]
+      technologies: ["android", "jetpack compose", "multiplatform"]
     },
     other: {
       deployment: ["make", "maven"],
