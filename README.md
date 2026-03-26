@@ -13,6 +13,9 @@ const corinaConklin = {
       api: ["fastapi", "spring", "flask", ""asp.net", "express.js", "ruby on rails", "phoenix"],
       db: ["firestore", "graphql", "mongodb"],
     },
+    mobile: {
+      tools: ["android compose", "android", "kotlin multiplatform"]
+    },
     other: {
       deployment: ["make", "maven"],
       qa: ["jest", "google test suite", "junit"],
